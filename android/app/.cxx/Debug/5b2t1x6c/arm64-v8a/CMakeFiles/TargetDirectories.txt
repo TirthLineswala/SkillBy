@@ -1,0 +1,2 @@
+E:/toshal/firebase_test/android/app/.cxx/Debug/5b2t1x6c/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/toshal/firebase_test/android/app/.cxx/Debug/5b2t1x6c/arm64-v8a/CMakeFiles/rebuild_cache.dir

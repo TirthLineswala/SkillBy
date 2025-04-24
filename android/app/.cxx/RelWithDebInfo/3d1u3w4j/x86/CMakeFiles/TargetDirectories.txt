@@ -1,0 +1,2 @@
+C:/Users/ASUS/OneDrive/Desktop/rushiraj/SkillBy-main/android/app/.cxx/RelWithDebInfo/3d1u3w4j/x86/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/OneDrive/Desktop/rushiraj/SkillBy-main/android/app/.cxx/RelWithDebInfo/3d1u3w4j/x86/CMakeFiles/rebuild_cache.dir
